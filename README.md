@@ -4,6 +4,6 @@ I'm graduated in computer science and I have a passion for visual things. Today 
 
 - I love to use `neovim` as my code editor and `unix` base systems, currently using `macOS `.
 - I use daily `.js`, `.ts`, `.html`, `.css`, `.rs`, `.swift`.
-- I'm currently learning swift for macOS development and trying to make my neovim experience even better creating plugins!
+- I'm currently learning swift for macOS development and creating plugins for neovim ✨
  
 🚀
